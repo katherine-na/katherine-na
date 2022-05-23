@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katherine-na
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning html css
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me github
 
