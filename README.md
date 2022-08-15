@@ -1,7 +1,5 @@
 <h1 align="center"> 👋 Hi, I’m Katherine </h1>
 
-<p align="center"> <img src="https://i.makeagif.com/media/7-23-2017/rcJVwf.gif"</p>
-
 <p align="center"> 👀 I’m interested in front end development </p>
 <p align="center"> 🌱 I’m currently learning HTML, CSS & JavaScript </p>
 <p align="center"> 💞️ I’m looking to collaborate on fun projects </p>
