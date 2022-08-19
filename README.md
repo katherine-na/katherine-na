@@ -14,4 +14,4 @@
 </p>
 
 <h2 align="center"></h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katherine-na&layout=compact&theme=algolia" width="500px" margin:0 auto;>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katherine-na&layout=compact&theme=algolia" width="100%">
