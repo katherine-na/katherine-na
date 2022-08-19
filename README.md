@@ -1,9 +1,9 @@
-<h1 align="center"> 👋 Hi, I’m Katherine </h1>
+<h1 align="center"> Hi, I’m Katherine 😊</h1>
 
-<p align="center"> 👀 I’m interested in front end development </p>
-<p align="center"> 🌱 I’m currently learning HTML, CSS & JavaScript </p>
-<p align="center"> 💞️ I’m looking to collaborate on fun projects </p>
-<p align="center"> 📫 How to reach me github </p>
+<p align="center"> 👀 I’m interested in Front-End development </p>
+<p align="center"> 🌱 I’m currently learning HTML5, CSS3 & JavaScript </p>
+<p align="center"> 💞️ I’m looking to collaborate on fun projects! </p>
+<p align="center"> 📫 How to reach me: Linkedln Katherine Negrete</p>
 
 <h2 align="center"> 💻 Technologies I am familiar with </h2>
 <p align="center">
@@ -14,4 +14,4 @@
 </p>
 
 <h2 align="center"></h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katherine-na&layout=compact&theme=algolia" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katherine-na&layout=compact&theme=algolia" width="500px">
