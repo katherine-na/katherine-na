@@ -5,7 +5,7 @@
 <p align="center"> 👀 I’m interested in Front-End development </p>
 <p align="center"> 🌱 I’m currently learning HTML5, CSS3 & JavaScript </p>
 <p align="center"> 💞️ I’m looking to collaborate on fun projects! </p>
-<p align="center"> 📫 How to reach me: Linkedln Katherine Negrete</p>
+<p align="center"> 📫 How to reach me: Linkedln <a href="https://www.linkedin.com/in/katherine-negrete-07b65b240/">Katherine Negrete</a></p>
 
 <h2 align="center"> 💻 Technologies I am familiar with </h2>
 <p align="center">
