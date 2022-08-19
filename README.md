@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I’m Katherine 😊</h1>
-
+<a href="https://katherine-na.github.io/my-portfolio/portfolio.html">Check out my portfolio!</a>
 <p align="center"> 👀 I’m interested in Front-End development </p>
 <p align="center"> 🌱 I’m currently learning HTML5, CSS3 & JavaScript </p>
 <p align="center"> 💞️ I’m looking to collaborate on fun projects! </p>
