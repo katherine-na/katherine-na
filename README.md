@@ -13,4 +13,5 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" heigh="50" width="50">
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katherine-na&layout=compact&theme=algolia">
+<h2 align="center"></h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katherine-na&layout=compact&theme=algolia" width="500px" margin:0 auto;>
