@@ -19,4 +19,6 @@
 </p>
 
 <h2 align="center"></h2>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katherine-na&layout=compact&theme=algolia" width="500px">
+</p>
