@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I’m Katherine 😊</h1>
 <p align="center">
-<a href="https://katherine-na.github.io/my-portfolio/portfolio.html">Check out my portfolio!</a>
+<a href="https://katherine-na.github.io/katherine-portfolio/">Check out my portfolio!</a>
 </p>
 <p align="center"> 👀 I’m interested in Front-End development </p>
 <p align="center"> 🌱 I’m currently learning HTML5, CSS3 & JavaScript </p>
